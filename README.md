@@ -1,4 +1,4 @@
 Hello git!  
-It's so cool – I am in really love!
+It's so cool – I am really in love!
 
 I cannot believe this.
